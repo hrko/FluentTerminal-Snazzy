@@ -1,2 +1,5 @@
 # FluentTerminal-Snazzy
-Elegant Fluent Terminal theme with bright colors
+Fluent Terminal color theme from [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
+
+# Install
+Settings > Themes > Import
