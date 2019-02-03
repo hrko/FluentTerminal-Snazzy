@@ -1,5 +1,5 @@
 # FluentTerminal-Snazzy
-Fluent Terminal color theme from [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
+[Fluent Terminal](https://github.com/felixse/FluentTerminal) color theme from [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
 
 ![Screenshot](screenshot.png)
 
