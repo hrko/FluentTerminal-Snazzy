@@ -1,0 +1,27 @@
+{
+  "Name": "Snazzy",
+  "Author": "HRKo",
+  "Colors": {
+    "Foreground": "#F1F1F0",
+    "Background": "#282A36",
+    "Cursor": "#F1F1F0",
+    "CursorAccent": "#282A36",
+    "Selection": "rgba(255, 255, 255, 0.296875)",
+    "Black": "#282A36",
+    "Red": "#FF5C57",
+    "Green": "#5AF78E",
+    "Yellow": "#F3F99D",
+    "Blue": "#57C7FF",
+    "Magenta": "#FF6AC1",
+    "Cyan": "#9AEDFE",
+    "White": "#F1F1F0",
+    "BrightBlack": "#282A36",
+    "BrightRed": "#FF5C57",
+    "BrightGreen": "#5AF78E",
+    "BrightYellow": "#F3F99D",
+    "BrightBlue": "#57C7FF",
+    "BrightMagenta": "#FF6AC1",
+    "BrightCyan": "#9AEDFE",
+    "BrightWhite": "#F1F1F0"
+  }
+}
